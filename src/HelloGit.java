@@ -7,5 +7,6 @@ public class HelloGit {
 		
 		// 수정1
 	}
+	// 수정2
 
 }
